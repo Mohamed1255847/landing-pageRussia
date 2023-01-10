@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/russianbear/static/css/main.e0908b18.css",
+    "main.js": "/russianbear/static/js/main.4e35c4b9.js",
+    "static/js/787.6606bfd5.chunk.js": "/russianbear/static/js/787.6606bfd5.chunk.js",
+    "static/media/logo-dob.png": "/russianbear/static/media/logo-dob.fde87bd3dc6cb1fd6b04.png",
+    "index.html": "/russianbear/index.html",
+    "main.e0908b18.css.map": "/russianbear/static/css/main.e0908b18.css.map",
+    "main.4e35c4b9.js.map": "/russianbear/static/js/main.4e35c4b9.js.map",
+    "787.6606bfd5.chunk.js.map": "/russianbear/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0908b18.css",
+    "static/js/main.4e35c4b9.js"
+  ]
+}
