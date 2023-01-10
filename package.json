@@ -2,7 +2,7 @@
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Mohamed1255847.github.io/russianbear",
+  "homepage": "http://github.io/russianbear",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
